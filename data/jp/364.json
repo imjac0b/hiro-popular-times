@@ -1,0 +1,961 @@
+{
+  "region": "jp",
+  "storeID": 364,
+  "storeName": "長久手店",
+  "storeNameEnglish": "Nagakute",
+  "timeZone": "Asia/Tokyo",
+  "updatedAt": "2026-09-06T22:51:23.133Z",
+  "latest": {
+    "capturedAt": "2026-09-06T22:51:23.133Z",
+    "status": "CLOSED",
+    "waitMinutes": 0,
+    "waitingGroups": 0
+  },
+  "popularTimes": [
+    {
+      "weekday": 0,
+      "hour": 0,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 1,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 2,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 3,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 11
+    },
+    {
+      "weekday": 0,
+      "hour": 4,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 5,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 6,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 13
+    },
+    {
+      "weekday": 0,
+      "hour": 7,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 8,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 9,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 10,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 11,
+      "averageWaitMinutes": 33.6,
+      "averageWaitingGroups": 27.3,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 12,
+      "averageWaitMinutes": 41,
+      "averageWaitingGroups": 32.7,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 13,
+      "averageWaitMinutes": 26,
+      "averageWaitingGroups": 19,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 14,
+      "averageWaitMinutes": 6.4,
+      "averageWaitingGroups": 5.3,
+      "sampleCount": 11
+    },
+    {
+      "weekday": 0,
+      "hour": 15,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 16,
+      "averageWaitMinutes": 12.5,
+      "averageWaitingGroups": 6,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 17,
+      "averageWaitMinutes": 74.6,
+      "averageWaitingGroups": 54.9,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 18,
+      "averageWaitMinutes": 78.5,
+      "averageWaitingGroups": 67.9,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 19,
+      "averageWaitMinutes": 56.1,
+      "averageWaitingGroups": 41.7,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 20,
+      "averageWaitMinutes": 24,
+      "averageWaitingGroups": 16.4,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 21,
+      "averageWaitMinutes": 3.2,
+      "averageWaitingGroups": 1.8,
+      "sampleCount": 11
+    },
+    {
+      "weekday": 0,
+      "hour": 22,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 0,
+      "hour": 23,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 0,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 1,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 2,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 3,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 4,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 5,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 6,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 7,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 1,
+      "hour": 13,
+      "averageWaitMinutes": 10,
+      "averageWaitingGroups": 5,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 1,
+      "hour": 16,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 1,
+      "hour": 17,
+      "averageWaitMinutes": 3.3,
+      "averageWaitingGroups": 2.3,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 1,
+      "hour": 19,
+      "averageWaitMinutes": 20,
+      "averageWaitingGroups": 19,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 1,
+      "hour": 20,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 1,
+      "hour": 21,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 0,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 1,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 5
+    },
+    {
+      "weekday": 2,
+      "hour": 2,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 5
+    },
+    {
+      "weekday": 2,
+      "hour": 3,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 4,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 5,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 6,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 2,
+      "hour": 7,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 6
+    },
+    {
+      "weekday": 2,
+      "hour": 9,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 10,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 2,
+      "hour": 12,
+      "averageWaitMinutes": 40,
+      "averageWaitingGroups": 37,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 14,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 2,
+      "hour": 17,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 18,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 2,
+      "hour": 20,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 2,
+      "hour": 21,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 2,
+      "hour": 22,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 2,
+      "hour": 23,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 3,
+      "hour": 2,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 3,
+      "hour": 3,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 3,
+      "hour": 4,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 3,
+      "hour": 6,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 3,
+      "hour": 7,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 3,
+      "hour": 8,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 4
+    },
+    {
+      "weekday": 3,
+      "hour": 10,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 3,
+      "hour": 11,
+      "averageWaitMinutes": 1.7,
+      "averageWaitingGroups": 0.3,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 3,
+      "hour": 12,
+      "averageWaitMinutes": 7.5,
+      "averageWaitingGroups": 5.8,
+      "sampleCount": 4
+    },
+    {
+      "weekday": 3,
+      "hour": 13,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 3,
+      "hour": 14,
+      "averageWaitMinutes": 5,
+      "averageWaitingGroups": 1.7,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 3,
+      "hour": 16,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 3,
+      "hour": 17,
+      "averageWaitMinutes": 8.3,
+      "averageWaitingGroups": 8.8,
+      "sampleCount": 6
+    },
+    {
+      "weekday": 3,
+      "hour": 18,
+      "averageWaitMinutes": 44,
+      "averageWaitingGroups": 37.1,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 3,
+      "hour": 19,
+      "averageWaitMinutes": 59,
+      "averageWaitingGroups": 43.2,
+      "sampleCount": 5
+    },
+    {
+      "weekday": 3,
+      "hour": 21,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 3,
+      "hour": 22,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 4
+    },
+    {
+      "weekday": 3,
+      "hour": 23,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 8
+    },
+    {
+      "weekday": 4,
+      "hour": 0,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 4
+    },
+    {
+      "weekday": 4,
+      "hour": 1,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 9
+    },
+    {
+      "weekday": 4,
+      "hour": 2,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 4,
+      "hour": 3,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 4,
+      "hour": 4,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 4,
+      "hour": 5,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 4,
+      "hour": 6,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 9
+    },
+    {
+      "weekday": 4,
+      "hour": 7,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 4,
+      "hour": 8,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 11
+    },
+    {
+      "weekday": 4,
+      "hour": 9,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 4,
+      "hour": 11,
+      "averageWaitMinutes": 5,
+      "averageWaitingGroups": 4.7,
+      "sampleCount": 4
+    },
+    {
+      "weekday": 4,
+      "hour": 12,
+      "averageWaitMinutes": 10,
+      "averageWaitingGroups": 10.3,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 4,
+      "hour": 13,
+      "averageWaitMinutes": 1.7,
+      "averageWaitingGroups": 0.7,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 4,
+      "hour": 15,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 4,
+      "hour": 16,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 4,
+      "hour": 17,
+      "averageWaitMinutes": 30,
+      "averageWaitingGroups": 24,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 4,
+      "hour": 19,
+      "averageWaitMinutes": 7.5,
+      "averageWaitingGroups": 6,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 4,
+      "hour": 20,
+      "averageWaitMinutes": 10,
+      "averageWaitingGroups": 9,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 4,
+      "hour": 23,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 5,
+      "hour": 0,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 8
+    },
+    {
+      "weekday": 5,
+      "hour": 1,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 5,
+      "hour": 2,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 7
+    },
+    {
+      "weekday": 5,
+      "hour": 3,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 6
+    },
+    {
+      "weekday": 5,
+      "hour": 5,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 5,
+      "hour": 6,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 8
+    },
+    {
+      "weekday": 5,
+      "hour": 7,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 5,
+      "hour": 8,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 7
+    },
+    {
+      "weekday": 5,
+      "hour": 10,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 7
+    },
+    {
+      "weekday": 5,
+      "hour": 11,
+      "averageWaitMinutes": 7.5,
+      "averageWaitingGroups": 4.5,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 5,
+      "hour": 14,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 5,
+      "hour": 15,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 5,
+      "hour": 16,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 5,
+      "hour": 17,
+      "averageWaitMinutes": 30,
+      "averageWaitingGroups": 24,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 5,
+      "hour": 18,
+      "averageWaitMinutes": 25,
+      "averageWaitingGroups": 16,
+      "sampleCount": 1
+    },
+    {
+      "weekday": 5,
+      "hour": 19,
+      "averageWaitMinutes": 46.7,
+      "averageWaitingGroups": 29.7,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 5,
+      "hour": 22,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 5,
+      "hour": 23,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 6,
+      "hour": 0,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 6
+    },
+    {
+      "weekday": 6,
+      "hour": 1,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 7
+    },
+    {
+      "weekday": 6,
+      "hour": 2,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 6
+    },
+    {
+      "weekday": 6,
+      "hour": 3,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 5
+    },
+    {
+      "weekday": 6,
+      "hour": 4,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 8
+    },
+    {
+      "weekday": 6,
+      "hour": 5,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 5
+    },
+    {
+      "weekday": 6,
+      "hour": 6,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 3
+    },
+    {
+      "weekday": 6,
+      "hour": 7,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 6,
+      "hour": 8,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 8
+    },
+    {
+      "weekday": 6,
+      "hour": 9,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    },
+    {
+      "weekday": 6,
+      "hour": 10,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 5
+    },
+    {
+      "weekday": 6,
+      "hour": 11,
+      "averageWaitMinutes": 24.3,
+      "averageWaitingGroups": 20.2,
+      "sampleCount": 14
+    },
+    {
+      "weekday": 6,
+      "hour": 12,
+      "averageWaitMinutes": 30,
+      "averageWaitingGroups": 25,
+      "sampleCount": 16
+    },
+    {
+      "weekday": 6,
+      "hour": 13,
+      "averageWaitMinutes": 21.4,
+      "averageWaitingGroups": 17.9,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 6,
+      "hour": 14,
+      "averageWaitMinutes": 9,
+      "averageWaitingGroups": 7.8,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 6,
+      "hour": 15,
+      "averageWaitMinutes": 1,
+      "averageWaitingGroups": 0.4,
+      "sampleCount": 15
+    },
+    {
+      "weekday": 6,
+      "hour": 16,
+      "averageWaitMinutes": 10.4,
+      "averageWaitingGroups": 4.1,
+      "sampleCount": 13
+    },
+    {
+      "weekday": 6,
+      "hour": 17,
+      "averageWaitMinutes": 78.2,
+      "averageWaitingGroups": 49.5,
+      "sampleCount": 11
+    },
+    {
+      "weekday": 6,
+      "hour": 18,
+      "averageWaitMinutes": 85.9,
+      "averageWaitingGroups": 61.3,
+      "sampleCount": 11
+    },
+    {
+      "weekday": 6,
+      "hour": 19,
+      "averageWaitMinutes": 63.2,
+      "averageWaitingGroups": 52,
+      "sampleCount": 15
+    },
+    {
+      "weekday": 6,
+      "hour": 20,
+      "averageWaitMinutes": 30.5,
+      "averageWaitingGroups": 28.1,
+      "sampleCount": 12
+    },
+    {
+      "weekday": 6,
+      "hour": 21,
+      "averageWaitMinutes": 18.2,
+      "averageWaitingGroups": 18.1,
+      "sampleCount": 11
+    },
+    {
+      "weekday": 6,
+      "hour": 22,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 10
+    },
+    {
+      "weekday": 6,
+      "hour": 23,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 12
+    }
+  ]
+}
