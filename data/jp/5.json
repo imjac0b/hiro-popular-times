@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "region": "jp",
+  "storeID": 5,
+  "storeName": "テスト店",
+  "storeNameEnglish": "test store",
+  "timeZone": "Asia/Tokyo",
+  "updatedAt": "2026-07-29T08:16:34.089Z",
+  "latest": {
+    "capturedAt": "2026-07-29T08:16:34.089Z",
+    "status": "DISCONNECTED",
+    "waitMinutes": 0,
+    "waitingGroups": 0
+  },
+  "popularTimes": [
+    {
+      "weekday": 3,
+      "hour": 17,
+      "averageWaitMinutes": 0,
+      "averageWaitingGroups": 0,
+      "sampleCount": 2
+    }
+  ]
+}
